@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentperify",
+        "uuid": 6153984,
+        "checksum": "mcsfs"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
